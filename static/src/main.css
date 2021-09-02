@@ -2,11 +2,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-#navcon {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
 .caption {
     position: absolute;
     width: 100%;
