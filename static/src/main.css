@@ -1,0 +1,28 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.caption {
+    position: absolute;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 8vw;
+    font-weight: bold;
+}
+
+#readbutton {
+    color: white;
+    background-color: orange;
+    border-color: lightgray;
+}
+
+.footer {
+    justify-items: start;
+    align-items: center;
+    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    background-color: black;
+}
